@@ -50,10 +50,8 @@ h1{
 
 .absolute-icons{
     position:absolute;
-    top:-1rem;
+    top:-2rem;
     left:2rem;
-    /* background:gray;
-    padding: 0.5rem; */
 }
 .card{
     position:relative;
@@ -64,7 +62,6 @@ h1{
 i{
     background:hsl(257, 51%, 27%);
     padding: 0.5rem;
-    font-size: 2rem !important;
 }
 
 .mt-10{
@@ -77,4 +74,8 @@ i{
     height:0.5rem;
     top:8rem;
     left:0;
+}
+
+.footer-section-one{
+    background:hsl(257, 51%, 27%);
 }
